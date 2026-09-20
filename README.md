@@ -1,4 +1,5 @@
 # 🎬 Netflix Content Analytics & Recommendation Intelligence Platform
+[https://netflix-content-analytics-recommendation-intelligence-platform.streamlit.app/]
 
 An end-to-end data analytics, machine learning, and business intelligence platform built on 8,800+ Netflix records[cite: 1]. This project features an automated Python ETL pipeline[cite: 1], SQL Server analytical warehousing[cite: 1], natural language processing (TF-IDF & Cosine Similarity)[cite: 1], supervised machine learning, and interactive dashboards (Streamlit & Microsoft Power BI)[cite: 1].
 
