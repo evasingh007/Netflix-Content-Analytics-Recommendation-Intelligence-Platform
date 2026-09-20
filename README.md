@@ -35,7 +35,8 @@ All analytical database scripts are stored in [`netflix_sql_analytics.sql`](./ne
 
 ## 📈 Executive BI Dashboard (Power BI Desktop)
 
-A dark-themed business intelligence dashboard designed to complement the analytical pipeline. Built directly against the local SQL Server warehouse table (`cleaned_netflix_titles`) and saved as [`Netflix_Dashboard.pbix`](./Netflix_Dashboard.pbix).
+A dark-themed business intelligence dashboard designed to complement the analytical pipeline. Built directly against the local SQL Server warehouse table (`cleaned_netflix_titles`) and saved as [`<img width="1316" height="742" alt="Screenshot 2026-09-20 145639" src="https://github.com/user-attachments/assets/19595ac9-d16c-4ad7-b459-5a0ff17d463c" />
+`].
 
 ![Netflix Executive Dashboard](assets/powerbi_dashboard.png)
 
